@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVI", "AVI\AVI.csproj", "{63C51648-4859-4F00-903B-624FE065304A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C51648-4859-4F00-903B-624FE065304A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C51648-4859-4F00-903B-624FE065304A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C51648-4859-4F00-903B-624FE065304A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C51648-4859-4F00-903B-624FE065304A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EEF34E-4822-4880-A152-6D0834D3646B}
+	EndGlobalSection
+EndGlobal
